@@ -1,6 +1,7 @@
 const crypto = require('crypto');
 const axios = require('axios');
 
+
 const apiKey = 'API_KEY_BINANCE';
 const apiSecret = 'API_SECRET_BINANCE';
 const BASE_URL = 'https://api.binance.com';
@@ -17,7 +18,7 @@ async function realizarConversion() {
     const quoteParams = {
       fromAsset: 'USDT',  // USDT or BTC 
       toAsset: 'BTC',     // BTC or USDT
-      fromAmount: '0.04', // Value of USDT or BTC when converting USDT to BTC and vice verse, example BTC: 0.00000074
+      fromAmount: '0.04000000', // Value of USDT or BTC when converting USDT to BTC and vice verse, example BTC: 0.00000074
       timestamp: now,
       recvWindow: 5000,
     };

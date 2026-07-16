@@ -22,7 +22,7 @@ node start_binance_convert.js
 <br>
 
 <h2>Como obtener API KEY y API SECRET</h2>
-<br>
+
 
 <p>El API SECRET solamente aparece en la creación de API KEY.</p>
 

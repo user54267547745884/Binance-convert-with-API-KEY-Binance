@@ -30,7 +30,7 @@ node start_binance_convert.js
 
 <h2>Ejecución en Termux de BTC a USDT y USDT a BTC</h2>
 
-
+<a href="https://ibb.co/zWrG1jdx"><img src="https://i.ibb.co/dsrGS1ZM/Screenshot-20260715-213448-Termux.jpg" alt="Screenshot 20260715 213448 Termux" border="0"></a>
 
 
 

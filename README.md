@@ -24,7 +24,7 @@ node binance-convert-convertion.js
 <h2>Como obtener API KEY y API SECRET</h2>
 
 
-<p>El API SECRET solamente aparece en la creación de API KEY una vez posibilitada para copiar y obtener a acceso para la utilización de API SECRET, por esa razón es necesario copiar y almacenar en el momento de obtener acceso a la API SECRET la API SECRET.</p>
+<p>El API SECRET solamente aparece en la creación de API KEY una vez posibilitada para copiar y obtener acceso para la utilización de API SECRET, por esa razón es necesario copiar y almacenar en el momento de obtener acceso a la API SECRET la API SECRET.</p>
 <a href="https://drive.google.com/file/d/1rcGoG1MD9AVm8BQuc02Hc509ngUZVkv_/preview"><img src="https://iili.io/CVqYaXR.md.jpg" alt="CVqYaXR.md.jpg" border="0"></a>
 
 

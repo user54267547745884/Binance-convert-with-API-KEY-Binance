@@ -1,5 +1,5 @@
 # Binance-convert-with-API-KEY-Binance
-Este repositorio es una reconstrucción de código generado por IA basada en Perplexity.ai, que implementa el proceso Binance Convert SWAP en la red mainnet utilizando una clave API.
+Este repositorio es una reconstrucción de código generado por IA basada en <a href="https://www.perplexity.ai">Perplexity.ai</a>, que implementa el proceso Binance Convert SWAP en la red mainnet utilizando una clave API.
 
 
 <h2>Instalación de entorno termux/debian/ubuntu</h2>

@@ -26,5 +26,3 @@ node start_binance_convert.js
 
 
 
-
-

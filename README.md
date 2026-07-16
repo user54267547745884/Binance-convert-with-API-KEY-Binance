@@ -28,6 +28,9 @@ node start_binance_convert.js
 <a href="https://drive.google.com/file/d/1rcGoG1MD9AVm8BQuc02Hc509ngUZVkv_/preview"><img src="https://iili.io/CVqYaXR.md.jpg" alt="CVqYaXR.md.jpg" border="0"></a>
 
 
+<h2>Ejecución en Termux de BTC a USDT y USDT a BTC</h2>
+
+
 
 
 

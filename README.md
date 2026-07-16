@@ -15,7 +15,7 @@ npm install crypto axios
 <h2>Ejecución de orden en Binance Convert via shell en Termux/Debian/Ubuntu</h2>
 
 ```bash
-node start_binance_convert.js
+node binance-convert-convertion.js
 ```
 
 

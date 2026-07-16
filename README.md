@@ -12,7 +12,7 @@ apt-get install nodejs -y
 npm install crypto axios
 ```
 
-<h2>Ejecución de orden en Binance Convert via shell en Termux/Debian/Ubuntu</h2>
+<h2>Ejecución de orden USDT/BTC y BTC/USDT en Binance Convert via shell en Termux/Debian/Ubuntu</h2>
 
 ```bash
 node binance-convert-convertion.js

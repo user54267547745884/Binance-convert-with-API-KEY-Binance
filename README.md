@@ -2,7 +2,7 @@
 Este repositorio es una reconstrucción de código generado por IA basada en Perplexity.ai, que implementa el proceso Binance Convert SWAP en la red principal utilizando una clave API.
 
 
-# Instalación de entorno termux/debian/ubuntu
+<h2>Instalación de entorno termux/debian/ubuntu</h2>
 
 ```bash
 apt-get install nodejs -y
@@ -12,7 +12,7 @@ apt-get install nodejs -y
 npm install crypto axios
 ```
 
-# Ejecución de orden en Binance Convert via shell en Termux/Debian/Ubuntu
+<h2>Ejecución de orden en Binance Convert via shell en Termux/Debian/Ubuntu</h2>
 
 ```bash
 node start_binance_convert.js
